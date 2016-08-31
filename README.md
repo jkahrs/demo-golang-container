@@ -1,0 +1,1 @@
+This repo is just a short version / poc that summarizes the blog post on https://blog.codeship.com/building-minimal-docker-containers-for-go-applications/ about building scratch docker containers for golang projects for me
